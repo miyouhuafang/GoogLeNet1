@@ -1,4 +1,4 @@
-## Hi there 👋
+## this is a foolish project by a student. 
 
 <!--
 **miyouhuafang/miyouhuafang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
